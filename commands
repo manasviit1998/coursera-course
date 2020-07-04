@@ -1,0 +1,7 @@
+command to start browser sync
+
+browser-sync start --server --directory --files "*"
+
+
+
+//before doing this go to the site folder 
