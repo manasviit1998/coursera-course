@@ -1,7 +1,23 @@
-command to start browser sync
+1.command to start browser sync
 
 browser-sync start --server --directory --files "*"
 
 
 
-//before doing this go to the site folder 
+//before doing this go to the site folder
+
+
+command to check git status
+
+git status
+
+command to commit git changes in local repository
+
+git commit -m "this is the message part"
+
+command to synchronize local and main repository'
+
+git push
+
+
+ 
